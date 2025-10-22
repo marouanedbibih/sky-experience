@@ -1,4 +1,4 @@
-# Zenclik Project
+# Sky Experience Project
 
 This project is a full-stack web application for booking hot air balloon flights, built with React (frontend) and Node.js/Express (backend), using MongoDB for data storage. It includes admin and user features, image uploads via Cloudinary, and email notifications.
 
@@ -14,8 +14,8 @@ This project is a full-stack web application for booking hot air balloon flights
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
-   cd zenclik
+   git clone https://github.com/marouanedbibih/sky-experience
+   cd sky-experience
    ```
 2. Add environment variables:
    - Edit `server/.env` with your secrets (MongoDB, Cloudinary, email, etc.)

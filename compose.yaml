@@ -33,7 +33,7 @@ services:
       dockerfile: Dockerfile
     container_name: web
     ports:
-      - "3000:80"
+      - "3001:80"
     depends_on:
       - mongodb
     networks:
